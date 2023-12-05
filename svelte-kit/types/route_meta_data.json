@@ -1,0 +1,9 @@
+{
+	"/": [
+		"src/routes/+page.js"
+	],
+	"/AboutMe": [],
+	"/ContactMe": [],
+	"/Experience": [],
+	"/Projects": []
+}
